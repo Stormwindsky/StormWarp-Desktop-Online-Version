@@ -9,16 +9,21 @@
   "build": {
     "appId": "com.stormwarp.desktop",
     "productName": "StormWarp Desktop",
+    "directories": {
+      "output": "dist"
+    },
     "files": [
       "main.js",
       "package.json"
     ],
     "win": {
-      "target": "portable"
+      "target": "portable",
+      "icon": "build/icon.ico"
     },
     "linux": {
       "target": "AppImage",
-      "category": "Development"
+      "category": "Development",
+      "icon": "build/icon.png"
     }
   },
   "devDependencies": {
