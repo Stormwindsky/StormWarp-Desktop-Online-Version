@@ -1,0 +1,15 @@
+{
+  "name": "stormwarp-online-desktop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "electron": "^41.3.0"
+  }
+}
