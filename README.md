@@ -1,2 +1,3 @@
-# StormWarp-Desktop-Online-Version
-If you want the version offline go to this website: (coming soon)
+# StormWarp Desktop (Online Version)
+
+###### THIS IS NOT A FORK OF TURBOWARP'S DESKTOP OFFLINE, BUT IT WAS CREATED ENTIRELY BY ME
