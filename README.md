@@ -46,3 +46,8 @@ No proprietary code is included in this repository. All dependencies are managed
 ### For development:
 ###### here: 
 https://github.com/Stormwindsky/StormWarp-Desktop-Online-Version/blob/main/DEVELOPMENT.md
+
+DOWNLOAD HERE (only for Linux for now)
+
+
+https://gamejolt.com/games/SWDOV/1065720
