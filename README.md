@@ -34,3 +34,15 @@ This project utilizes several open-source packages (listed in `package-lock.json
 - Various Node.js utility modules (MIT/BSD/Apache-2.0 Licenses)
 
 No proprietary code is included in this repository. All dependencies are managed via NPM and are subject to their respective open-source licenses.
+
+
+
+
+## ============================
+## ============================
+
+
+
+### For development:
+###### here: 
+https://github.com/Stormwindsky/StormWarp-Desktop-Online-Version/blob/main/DEVELOPMENT.md
